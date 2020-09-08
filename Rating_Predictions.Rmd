@@ -1,5 +1,5 @@
 ---
-title: "_RATING PREDICTIONS:                                                                                    A MOVIE RECOMMENDATION SYSTEM_                                                                                   - Capstone Project - HarvardX Data Science Professional Certificate Program Course - Harvard University"
+title: "_RATING PREDICTIONS: A MOVIE RECOMMENDATION SYSTEM_ - Capstone Project - HarvardX Data Science Professional Certificate Program Course - Harvard University"
 author: "Miguel Ángel Boto Bravo, PhD in Linguistics"
 date: "06/09/2020"
 output:
